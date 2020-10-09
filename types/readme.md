@@ -1,0 +1,1 @@
+Types are important because it will help compiler give you errors and information depending on values you have in code. This helps manage bigger projects with multiple people. AS they can look at the type and see what they can use.
